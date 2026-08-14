@@ -172,6 +172,14 @@ Includes test suites for:
 
 ---
 
+## 🔮 Roadmap & Future Enhancements
+
+- [ ] **Swagger / OpenAPI 3.0**: Interactive API documentation and UI testing sandbox using `springdoc-openapi`.
+- [ ] **OAuth2 Authentication**: Social login integration (Google / GitHub SSO) alongside standard JWT auth using `spring-boot-starter-oauth2-client`.
+- [ ] **Docker & Containerization**: Dockerfile and `docker-compose.yml` for simplified setup with MongoDB, Redis, and Kafka services.
+
+---
+
 ## 📝 License
 
 Distributed under the MIT License. See `LICENSE` for details.
